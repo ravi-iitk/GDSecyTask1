@@ -12,6 +12,6 @@ coins collecting mechanism
 level complete/game obver panels
 
 ## Credits 
-Game by Ravi Patar
-Sound effects Royalty free no copyright
-Artwork licensable
+- Game by Ravi Patar
+- Sound effects Royalty free no copyright
+- Artwork licensable
