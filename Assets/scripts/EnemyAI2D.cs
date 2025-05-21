@@ -5,8 +5,8 @@ public class EnemyAI2D : MonoBehaviour
     [Header("Movement & Combat")]
     public float moveSpeed = 2f;
     public float attackRange = 1.2f;
-    public float attackCooldown = 1.5f;
-    public int attackDamage = 20;
+    public float attackCooldown = 5f;
+    public int attackDamage = 10;
     public Transform attackPoint;
     public LayerMask playerLayer;
 
